@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 
-    int largest, second_largest, current, n;
+    int largest, second_largest, n;
 
     cout << "Enter the number of elements: " << endl;
     cin >> n;
