@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
 
-    int n, target, j;
+    int n, target, count;
     cout << "Enter the number of elements: " << endl;
     cin >> n;
 
@@ -16,11 +16,11 @@ int main(){
     cout << "Enter the target: " << endl;
     cin >> target;
     
-    j = 0;
+    count = 0;
 
     for(int i = 0; i < n; i++){
         if ( arr[i] == target){
-            j++;
+            count++;
         }
     }
 
