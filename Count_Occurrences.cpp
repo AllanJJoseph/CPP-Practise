@@ -24,7 +24,7 @@ int main(){
         }
     }
 
-    cout << target << " appears " << j << " times." << endl;
+    cout << target << " appears " << count << " times." << endl;
 
 
     return 0;
