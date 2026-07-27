@@ -1,0 +1,29 @@
+# Compiled executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.pdb
+*.ilk
+*.idb
+
+# VS Code
+.vscode/
+
+# CMake
+build/
+cmake-build-*/
+
+# Temporary files
+*.log
+*.tmp
